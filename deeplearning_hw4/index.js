@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Sit down in that armchair, Doctor, and give us your best attention.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Relations are simply a tedious pack of people, who haven't got the remotest knowledge of how to live, nor the smallest instinct about when to die.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Craniad is a large rough triangular area with equal sides and with one of its angles directed ventrocraniad.'      
 };
 
 function status(statusText) {
