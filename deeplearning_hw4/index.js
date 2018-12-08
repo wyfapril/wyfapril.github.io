@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Sit down in that armchair, Doctor, and give us your best attention.',
   'example2':
-      'Relations are simply a tedious pack of people, who have not got the remotest knowledge of how to live, nor the smallest instinct about when to die.',
+      'I hate people who are not serious about meals. It is so shallow of them.',
   'example3':
       'Craniad is a large rough triangular area with equal sides and with one of its angles directed ventrocraniad.'      
 };
